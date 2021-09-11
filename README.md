@@ -1,2 +1,2 @@
 # Drawback Randomizer
- Randomly selects whimsical drawbacks for fictional characters
+ Randomly selects whimsical drawbacks for fictional characters.
